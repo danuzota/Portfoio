@@ -15,7 +15,6 @@ if (projectsCardWrapper) {
   showNextCard();
 }
 
-// Menu toggle
 const menuIcon = document.querySelector(".menu__icon");
 const header = document.querySelector(".header");
 
